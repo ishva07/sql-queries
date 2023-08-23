@@ -1,0 +1,20 @@
+**String Data Type:
+char
+varchar(size)
+text(size)
+
+
+**Numaric Data Type:
+
+bool
+int(size)
+float(size,d)
+double(size,d)
+money
+
+
+**Datetime datatype:
+
+date(YYYY:MM:dd)
+time(hh:mm:ss)
+datetime
